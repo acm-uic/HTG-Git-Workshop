@@ -1,1 +1,36 @@
-print("The following are fans of Yashi Shandilya")
+print("Pick some deoderant for yourself or smell the whole day.")
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
+# Deoderant
