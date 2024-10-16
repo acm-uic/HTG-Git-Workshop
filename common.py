@@ -7,7 +7,6 @@ print("Take one Deodorant for yourself or stay smelly.")
 # Deodorant 6
 # Deodorant 7
 # Deodorant 8
-# Deodorant 9
 # Deodorant 10
 # Deodorant 11
 # Deodorant 12
