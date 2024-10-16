@@ -16,6 +16,6 @@ print("Take one Deodorant for yourself or stay smelly.")
 # Deodorant 15
 # Deodorant 16
 # Deodorant 17
-# Deodorant 18
+
 # Deodorant 19
 # Deodorant 20
